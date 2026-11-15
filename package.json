@@ -1,0 +1,16 @@
+{
+  "name": "fest-ticket-bot",
+  "version": "1.0.0",
+  "description": "FEST Discord ticket ve DM duyuru botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
